@@ -3,8 +3,7 @@
 # Description
 
 This repository contains the data analysis code and related scripts for the study:
-**Mitigating edge effects in paleoclimate reconstructions: a comprehensive review and bias assessment of soil brGDGT-based temperature reconstructions **.
-The study quantified the factors contributing to the edge effect and employed a Sparse Identification of Nonlinear Dynamics (SINDY) approach for dynamic simulation of the brGDGT-based temperature biases.
+Mitigating edge effects in paleoclimate reconstructions: a comprehensive review and bias assessment of soil brGDGT-based temperature reconstructions et al., 2026, Earth-Science Reviews. The study quantified the factors contributing to the edge effect and employed a Sparse Identification of Nonlinear Dynamics (SINDY) approach for dynamic simulation of the brGDGT-based temperature biases.
 
 ## **Contents**
 
